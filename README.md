@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, I'm Raphael. I'm an undecided freshman who's into philosophy, sports, and filmmaking.
+Hi, I'm Raphael.
 
 <!--
 **rrenzo/rrenzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
